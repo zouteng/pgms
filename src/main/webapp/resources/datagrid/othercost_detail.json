@@ -1,0 +1,9 @@
+﻿{"total":7,"rows":[
+	{"id":1,"NO":"PG00210","E_NO":"12312312","count":"10.00","progress":""},
+	{"id":1,"NO":"PG00211","E_NO":"321232","count":"20.00","progress":""},
+	{"id":1,"NO":"PG00212","E_NO":"1112322","count":"14.00","progress":""},
+	{"id":1,"NO":"PG00213","E_NO":"112331","count":"1","progress":""},
+	{"id":1,"NO":"","E_NO":"","count":"1","progress":"51"}
+],"footer":[
+	{"progress":51,"count":198,"E_NO":"总计:"}
+]}

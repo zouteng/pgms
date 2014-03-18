@@ -1,0 +1,15 @@
+﻿{"total":7,"rows":[
+	{"id":1,"NO":"PG00210","E_NO":"SAIC0002","cost":"10.00","progress":""},
+	{"id":1,"NO":"PG00211","E_NO":"SAIC0002","cost":"20.00","progress":""},
+	{"id":1,"NO":"PG00212","E_NO":"SAIC0002","cost":"14.00","progress":""},
+	{"id":1,"NO":"PG00213","E_NO":"SAIC0002","cost":"1","progress":""},
+	{"id":1,"NO":"PG00214","E_NO":"SAIC0002","cost":"1","progress":""},
+	{"id":1,"NO":"PG00215","E_NO":"SAIC0002","cost":"1","progress":""},
+	{"id":1,"NO":"PG00216","E_NO":"SAIC0002","cost":"1","progress":""},
+	{"id":1,"NO":"PG00217","E_NO":"SAIC0002","cost":"1","progress":""},
+	{"id":1,"NO":"PG00218","E_NO":"SAIC0002","cost":"1","progress":""},
+	{"id":1,"NO":"PG00219","E_NO":"SAIC0002","cost":"1","progress":""},
+	{"id":1,"NO":"PG00220","E_NO":"SAIC0002","cost":"1","progress":""}
+],"footer":[
+	{"E_NO":7,"cost":198.00,"money":1340.00,"NO":"总计:"}
+]}

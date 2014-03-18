@@ -1,0 +1,14 @@
+﻿{"total":9,"rows":[
+	{"id":1,"type":"ISP normal","单位":"","count":"2","price":"100"},
+	{"id":2,"type":"ISP OT 1.5 rate","单位":"","count":"10","price":"100.00"},
+	{"id":3,"type":"ISP OT 2 rate","单位":"","count":"30","price":"100.00"},
+	{"id":5,"type":"ISP OT 3 rate","单位":"","count":"20","price":"100.00"},
+	{"id":2,"type":"Senior Engineer norm","单位":"","count":"10","price":"100.00"},
+	{"id":3,"type":"Senior Engineer OT 1 rate","单位":"","count":"30","price":"100.00"},
+	{"id":5,"type":"Senior Engineer OT 2 rate","单位":"","count":"20","price":"100.00"},
+	{"id":2,"type":"Senior Engineer ISP OT 3 rate","单位":"","count":"10","price":"100.00"},
+	{"id":3,"type":"Engineer OT 1 rate","单位":"","count":"30","price":"100.00"},
+	{"id":5,"type":"Engineer OT 2 rate","单位":"","count":"20","price":"100.00"},
+	{"id":3,"type":"Engineer OT 3 rate","单位":"","count":"30","price":"100.00"},
+	{"id":5,"type":"Technical Specialist","单位":"","count":"20","price":"100.00"}
+]}

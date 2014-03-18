@@ -1,0 +1,88 @@
+﻿
+<link href="css/main.css" rel="stylesheet" />
+<link href="css/easyui.css" rel="stylesheet" />
+<link href="css/icon.css" rel="stylesheet" />
+<link href="css/demo.css" rel="stylesheet" />
+<script src="javascript/main.js"></script>
+<script src="javascript/jquery-1.9.1.min.js"></script>
+<script src="javascript/jquery.easyui.min.js"></script>
+<style>
+div,body {
+	margin: 0;
+	padding: 0;
+}
+</style>
+
+<div class="table-m-m">
+	<div id="menu">
+		<ul>
+			<li id="mIndex"><a class="title" href="/pgms/index" target="_parent"><span
+					class="zhankai"></span>首页</a></li>
+			<li id="mBusiness"><a class="title"><span class="shousuo"></span>业务办理</a>
+				<ul style="display: none;" class="content">
+					<li><a href="/pgms/ywsq" target="_parent">业务申请</a></li>
+					<li><a href="/pgms/cdyd" target="_parent">场地预订</a></li>
+					<li><a href="/pgms/hmdgl" target="_parent">黑名单管理</a></li>
+				</ul></li>
+			<li><a class="title"><span class="shousuo"></span>车辆管理</a>
+				<ul style="display: none;" class="content">
+					<li><a href="/pgms/cldj" target="_parent">车辆登记</a></li>
+					<li><a href="/pgms/clzx" target="_parent">车辆注销</a></li>
+					<li><a href="/pgms/clcx" target="_parent">车辆查询</a></li>
+
+				</ul></li>
+			<li><a class="title"><span class="shousuo"></span>费用结算</a>
+				<ul style="display: none;" class="content">
+					<li><a href="/pgms/nbylqrd" target="_parent">内部油料确认单</a></li>
+					<li><a href="/pgms/wbsjqrd" target="_parent">外部数据确认单</a></li>
+					<li><a href="/pgms/wbfyjsd" target="_parent">外部费用结算单</a></li>
+					<li><a href="/pgms/wbyljsd" target="_parent">外部油料结算单</a></li>
+				</ul></li>
+			<li><a class="title"><span class="shousuo"></span>道路管理</a>
+				<ul style="display: none;" class="content">
+					<li><a href="/pgms/xcjk" target="_parent">现场监控</a></li>
+					<li><a href="/pgms/sscl" target="_parent">实时车辆</a></li>
+					<li><a href="/pgms/dlrccx" target="_parent">道路日程查询</a></li>
+					<li><a href="/pgms/dljhgl" target="_parent">道路计划管理</a></li>
+					<li><a href="/pgms/aqjl" target="_parent">安全记录</a></li>
+					<li><a href="/pgms/syjlmx" target="_parent">试验记录明细</a></li>
+				</ul></li>
+			<li><a class="title"><span class="shousuo"></span>试验人员</a>
+				<ul style="display: none;" class="content">
+					<li><a href="/pgms/syrygl" target="_parent">人员管理</a></li>
+					<li><a href="/pgms/sysqbl" target="_parent">申请办理</a></li>
+					<li><a href="/pgms/wgjl" target="_parent">违规记录</a></li>
+					<li><a href="/pgms/jsgzgx" target="_parent">驾驶规则更新</a></li>
+					<li><a href="/pgms/ksrc" target="_parent">考试日程</a></li>
+
+				</ul></li>
+			<li id="mBusinessdata"><a class="title"><span class="shousuo"></span>业务数据</a>
+				<ul style="display: none;" class="content" id="dataul">
+					<li><a href="/pgms/projectManage" target="_parent">项目管理</a></li>
+					<li><a href="/pgms/enterprisesCustomers" target="_parent">客户企业</a></li>
+					<li><a href="/pgms/roadInfo" target="_parent">道路信息</a></li>
+					<li><a href="/pgms/priceManage" target="_parent">价格维护</a></li>
+					<li><a href="/pgms/testSpecification" target="_parent">试验规范</a></li>
+					<li><a href="/pgms/accessControlSetting" target="_parent">门禁设置</a></li>
+					<li><a href="/pgms/deviceManage" target="_parent">设备管理</a></li>
+					<li><a href="/pgms/oilprices" target="_parent">油品价格</a></li>
+				</ul></li>
+			<li id="mSystemManage"><a class="title"><span class="shousuo"></span>系统管理</a>
+				<ul style="display: none;" class="content">
+					<li><a href="/pgms/userManage" target="_parent">用户管理</a></li>
+					<li><a href="/pgms/roleManage" target="_parent">角色管理</a></li>
+					<li><a href="/pgms/menuPermissionManage" target="_parent">菜单管理</a></li>
+					<li><a href="/pgms/actionPermissionManage" target="_parent">权限Action维护</a>
+					</li>
+					<li><a href="/pgms/paramsManage" target="_parent">参数管理</a></li>
+					<li><a href="/pgms/xxggfb" target="_parent">信息公告发布</a></li>
+				</ul></li>
+		</ul>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		changeMenu();
+	});
+</script>

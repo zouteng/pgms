@@ -1,0 +1,8 @@
+﻿{"total":9,"rows":[
+	{"id":3,"type":"最高车速km/h","IS":"","maxspeed":"200","comments":""},
+	{"id":5,"type":"加速","IS":"N","maxspeed":"","comments":""},
+	{"id":6,"type":"制动","IS":"N","maxspeed":"","comments":""},
+	{"id":7,"type":"高侧向力","IS":"Y","maxspeed":"150","comments":""},
+	{"id":8,"type":"变线","IS":"N","maxspeed":"","comments":""},
+	{"id":9,"type":"其他操作1","IS":"N","maxspeed":"","comments":""}
+]}

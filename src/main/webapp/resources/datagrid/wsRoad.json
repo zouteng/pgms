@@ -1,0 +1,8 @@
+﻿{"total":28,"rows":[
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","type":"GPS掉线","status":"已处理"},
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","type":"GPS掉线","status":"已处理"},
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","type":"超速驾驶","status":"已处理"},
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","type":"GPS掉线","status":"已处理"},
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","type":"GPS掉线","status":"已处理"},
+	{"carNum":"00000126","beginTime":"13:12:00","type":"GPS掉线","status":"已处理"}
+]}

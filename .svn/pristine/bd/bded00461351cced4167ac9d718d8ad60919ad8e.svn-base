@@ -1,0 +1,8 @@
+﻿{"total":28,"rows":[
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","state":"进入直线性能路"},
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","state":"离开直线性能路"},
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","state":"进入长坡桥"},
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","state":"离开长坡桥"},
+	{"carNum":"<a href=''>00000125</a>","beginTime":"13:12:00","state":"<span style='color:red'>进入动态广场</span>"},
+	{"carNum":"00000126","beginTime":"13:12:00","state":"离开动态广场"}
+]}
